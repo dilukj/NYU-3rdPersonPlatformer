@@ -129,7 +129,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rotationAxis: {x: 1, y: 1, z: 0}
-  rotationSpeed: 1
+  rotationSpeed: 0.8
 --- !u!114 &1677601364
 MonoBehaviour:
   m_ObjectHideFlags: 0
